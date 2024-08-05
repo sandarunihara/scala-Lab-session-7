@@ -1,5 +1,3 @@
-object PrimeFilter {
-
   // Helper function to check if a number is prime
   def isPrime(num: Int): Boolean = {
     if (num <= 1) false
@@ -23,4 +21,3 @@ object PrimeFilter {
     println(s"Input List: $inputList")
     println(s"Prime Numbers: $primeNumbers")
   }
-}
