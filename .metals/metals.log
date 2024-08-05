@@ -131,3 +131,40 @@ WARNING: Unmatched cancel notification for request id 185
 2024.08.04 14:14:52 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.58s
 Aug 04, 2024 3:00:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.08.04 15:01:57 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 7\scala-Lab-session-7\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 15:01:58 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 7\scala-Lab-session-7\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 15:01:58 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%207/scala-Lab-session-7/q2.scala
+2024.08.04 15:01:58 INFO  running doctor check
+2024.08.04 15:01:58 INFO  java targets: scala-Lab-session-7_f4dd477a3a, scala-Lab-session-7_f4dd477a3a-test
+2024.08.04 15:01:59 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:01:59 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.19s
+2024.08.04 15:02:01 INFO  time: indexed workspace in 2.5s
+2024.08.04 15:02:01 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:02:01 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.39s
+2024.08.04 15:02:06 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:02:06 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.5s
+2024.08.04 15:11:35 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 7\scala-Lab-session-7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 15:11:36 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 7\scala-Lab-session-7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 15:11:36 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%207/scala-Lab-session-7/q3.scala
+2024.08.04 15:11:36 INFO  running doctor check
+2024.08.04 15:11:36 INFO  java targets: scala-Lab-session-7_f4dd477a3a, scala-Lab-session-7_f4dd477a3a-test
+2024.08.04 15:11:37 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:11:37 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.16s
+2024.08.04 15:11:40 INFO  time: indexed workspace in 3.14s
+2024.08.04 15:25:27 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:25:27 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.37s
+2024.08.04 15:25:33 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%207/scala-Lab-session-7/q3.scala
+2024.08.04 15:25:34 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:25:34 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 37ms
+2024.08.04 15:25:35 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:25:35 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.26s
+Aug 04, 2024 3:25:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 558
+2024.08.04 15:26:58 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:26:58 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.15s
+2024.08.04 15:27:01 INFO  compiling scala-lab-session-7_f4dd477a3a (1 scala source)
+2024.08.04 15:27:01 INFO  time: compiled scala-Lab-session-7_f4dd477a3a in 0.21s
+2024.08.04 15:52:30 INFO  Shutting down server
+2024.08.04 15:52:30 INFO  shutting down Metals
+2024.08.04 15:52:30 INFO  Shut down connection with build server.
+2024.08.04 15:52:30 INFO  Exiting server
