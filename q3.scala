@@ -12,12 +12,16 @@
 
   def main(args: Array[String]): Unit = {
     // Example input list
-    val inputList = List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10,101)
-    
-    // Call the filterPrime function
+    val inputList = List(1,2,3,4,5,6,7,13,15,17,23)
     val primeNumbers = filterPrime(inputList)
     
     // Print the result
     println(s"Input List: $inputList")
-    println(s"Prime Numbers: $primeNumbers")
+
+    if(primeNumbers.isEmpty){
+      println("No Prime Number in the list")
+    }else{
+      println(s"Prime Numbers: $primeNumbers")
+    }
+     
   }
