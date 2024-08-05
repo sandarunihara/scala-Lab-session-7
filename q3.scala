@@ -1,4 +1,3 @@
-  // Helper function to check if a number is prime
   def isPrime(num: Int): Boolean = {
     if (num <= 1) false
     else (2 until num).forall(i => num % i != 0)
